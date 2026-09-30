@@ -1,0 +1,12 @@
+{
+  "construction worker": {"risk_level": "high", "hazards": ["Falls from height", "Dust exposure", "Heat exposure", "Noise exposure", "Musculoskeletal injury"]},
+  "factory worker": {"risk_level": "high", "hazards": ["Moving machinery", "Noise exposure", "Chemical contact", "Repetitive strain"]},
+  "warehouse worker": {"risk_level": "moderate", "hazards": ["Manual handling", "Forklift traffic", "Slips and falls", "Repetitive strain"]},
+  "delivery rider": {"risk_level": "high", "hazards": ["Traffic accidents", "Heat exposure", "Air pollution", "Fatigue", "Prolonged riding"]},
+  "driver": {"risk_level": "high", "hazards": ["Road accidents", "Fatigue", "Prolonged sitting", "Musculoskeletal strain"]},
+  "welder": {"risk_level": "high", "hazards": ["Welding fumes", "Burns", "Eye injury", "Heat exposure"]},
+  "electrician": {"risk_level": "high", "hazards": ["Electric shock", "Falls", "Burns", "Arc flash exposure"]},
+  "agricultural worker": {"risk_level": "high", "hazards": ["Heat exposure", "Pesticide contact", "Agricultural machinery", "Musculoskeletal strain"]},
+  "sanitation worker": {"risk_level": "high", "hazards": ["Biohazard exposure", "Sharp objects", "Chemical contact", "Heat exposure"]},
+  "security worker": {"risk_level": "moderate", "hazards": ["Fatigue", "Prolonged standing", "Conflict exposure", "Outdoor weather exposure"]}
+}
